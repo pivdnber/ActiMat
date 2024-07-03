@@ -1,0 +1,12 @@
+Sleep Report for: C:\Users\Revaki\Downloads\LISA\Deelnemer 42\OBP_042_EVDH15sec60sec.agd
+Subject Name: OBP_042_EVDH
+Serial Number: MOS2D04180198
+Sleep Algorithm: Sadeh
+
+Sleep Algorithm,In Bed Date,In Bed Time,Out Bed Date,Out Bed Time,Onset Date,Onset Time,Latency,Total Counts,Efficiency,Total Minutes in Bed,Total Sleep Time (TST),Wake After Sleep Onset (WASO),Number of Awakenings,Average Awakening Length,Movement Index,Fragmentation Index,Sleep Fragmentation Index
+Sadeh,11/11/2021,4:50,11/11/2021,9:00,11/11/2021,4:53,3,38507,72.8,250,182,65,11,5.91,24.4,25,49.4
+Sadeh,11/11/2021,22:30,12/11/2021,7:30,11/11/2021,22:55,25,118786,64.63,540,349,166,25,6.64,28.889,8,36.889
+Sadeh,12/11/2021,23:00,13/11/2021,7:15,12/11/2021,23:12,12,11723,97.58,495,483,0,0,0,1.616,0,1.616
+Sadeh,14/11/2021,0:30,14/11/2021,8:00,14/11/2021,0:30,0,39334,73.78,450,332,118,30,3.93,20.444,26.667,47.111
+Sadeh,14/11/2021,23:00,15/11/2021,7:30,14/11/2021,23:54,54,60672,67.84,510,346,110,26,4.23,24.118,11.538,35.656
+Sadeh,15/11/2021,23:15,16/11/2021,7:30,15/11/2021,23:15,0,49550,67.88,495,336,159,27,5.89,21.414,14.815,36.229
