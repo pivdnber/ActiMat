@@ -68,15 +68,9 @@ Check out the [scripts](https://github.ugent.be/pivdnber/actimat/tree/main/code)
 
 ## Screenshot
 
-
-
 ![](C:\Users\pivdnber\OneDrive%20-%20UGent\Documenten\GitHub\ActiGraphProcessing\images\screenshot-matlab.png)
 
-
-
 ![Example screenshot](https://github.ugent.be/pivdnber/actimat/blob/main/images/ActiMat-gif.gif)
-
-
 
 ## Project Status
 
@@ -108,13 +102,11 @@ ActiMat is free but copyright software, distributed under the terms of the **MIT
 
 ## Contact
 
-Created by [Pieter Van den Berghe](pieter.vandenberghe@ugent.be).<sup>1</sup>- feel free to contact me
+Created by [Pieter Van den Berghe](pieter.vandenberghe@ugent.be) - feel free to contact me
 
 > I hope that ActiMat will make it easier for researchers to work with 
 > analysed ActiGraph data, and particularly the 24HMB datasets. 
 > Researchers who encounter problems using the script, or have 
 > suggestions for additional features, should not hesitate to contact me.
-
-*<sup>1</sup> Department of Rehabilitation Sciences, Ghent University, Ghent, Belgium.*
 
 \---
